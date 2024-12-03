@@ -54,9 +54,14 @@
 
 ## Output:
 
+![exp 1a output EMPD](https://github.com/user-attachments/assets/fa71b231-d2dd-4508-975b-222ec473eeec)
 
-### Name:
-### Register Number: 
+![exp 1b output EMPD](https://github.com/user-attachments/assets/f5301751-375e-49e6-b910-b91dad16bb46)
+
+
+
+### Name: Kushma. S
+### Register Number: 24013666
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
